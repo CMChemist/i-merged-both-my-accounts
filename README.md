@@ -1,2 +1,2 @@
 # I Merged Both My Accounts
-Now both can be found at github.com/lofiandcode.
+Now the old and the new can be found at github.com/lofiandcode.
